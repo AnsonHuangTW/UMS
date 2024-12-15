@@ -1,2 +1,2 @@
 # UMS
-User Mangment System(UMS) by Java Spring Boot
+User Management System(UMS) by Java Spring Boot
