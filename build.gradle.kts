@@ -18,6 +18,7 @@ repositories {
 }
 
 dependencies {
+	implementation("org.hibernate.orm:hibernate-core:6.2.7.Final")
 	implementation("org.springframework.boot:spring-boot-starter-data-jdbc")
 	implementation("org.springframework.boot:spring-boot-starter-data-jpa")
 	implementation("org.springframework.boot:spring-boot-starter-web")
